@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pedro!
 
-- 🔭 I'm a scientist specialised in analysing infectious diseases outbreaks, currently working on analysis of Tuberculosis and COVID with data science tools.
+- 🔭 I'm a scientist specialised in infectious diseases outbreaks analysis, currently working on analysis of Tuberculosis and COVID with data science tools.
 - 🌱 I’m currently learning React - Redux
 - 📫 How to reach me:
 
