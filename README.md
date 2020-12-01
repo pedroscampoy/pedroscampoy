@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 
 [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 ### Languages and Tools:
 
@@ -37,3 +38,4 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/pedrojsolacampoy/
+[gmail]: pedroscampoy@gmail.com
