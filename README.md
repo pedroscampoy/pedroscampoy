@@ -3,7 +3,7 @@
 - 🔭 I'm a scientist specialised in infectious diseases outbreaks analysis, currently working on analysis of Tuberculosis and COVID with data science tools.
 - 🌱 I’m currently learning React - Redux
 - 📫 How to reach me:  [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+<a href="mailto:pedroscampoy@gmail.com"><img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 
 ### Languages and Tools:
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/pedrojsolacampoy/
-[gmail]: pedroscampoy@gmail.com
+[gmail]: "mailto:pedroscampoy@gmail.com"
