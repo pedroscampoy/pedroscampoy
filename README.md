@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pedro!
 
-- 🔭 I'm an ex scientist specialised in infectious diseases outbreaks analysis, I have been working on analysis of Tuberculosis and COVID with data science tools. Now I am a web developer. I use Angular framework to build web apps. I love data visualization with D3 and other libraries.
-- 🌱 I’m currently learning Angular and NGRX
+- 🔭 I'm an ex scientist specialised in infectious diseases outbreaks analysis, I have been working on analysis of Tuberculosis and COVID with data science tools. Now I am a web developer. I use Angular framework to build reactive web apps. I love data visualization with D3 and other libraries.
+- 🌱 I’m currently learning Micro Frontends with Module Federation.
 - 📫 How to reach me:  [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pedroscampoy@gmail.com" target="_blank"><img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 
